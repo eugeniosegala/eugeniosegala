@@ -11,9 +11,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true" alt="eugeniosegala" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
-
-<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
 
 <p>
 <a href="https://linkedin.com/in/eugeniosegala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eugeniosegala" height="30" width="30" /></a>
