@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://eugeniosegala.it/](https://eugeniosegala.it/)
 
-- 📫 How to reach me: **eugeniosegalaweb@gmail.com**
+- 📫  How to reach me: **eugeniosegalaweb@gmail.com**
 
 <br />
 
