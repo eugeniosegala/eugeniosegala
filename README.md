@@ -21,6 +21,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true" alt="eugeniosegala" /></p>
 
+<br />
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
 
 <p align="center">
