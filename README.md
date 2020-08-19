@@ -12,7 +12,11 @@
 - 📝 &nbsp;I write articles on [https://eugeniosegala.it/](https://eugeniosegala.it/)
 
 - 📫  &nbsp;How to reach me: **eugeniosegalaweb@gmail.com**
+
 <br />
+
+**Programming Languages:**
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
 
 **Programming Languages:**
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
