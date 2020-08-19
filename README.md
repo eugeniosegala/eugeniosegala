@@ -15,6 +15,11 @@
 
 <br />
 
+**Programming Languages:**
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+
+<br />
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true" alt="eugeniosegala" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
