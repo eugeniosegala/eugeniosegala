@@ -14,6 +14,7 @@
 - 📫  &nbsp;How to reach me: **eugeniosegalaweb@gmail.com**
 
 <br />
+
 <p>
 <a href="https://linkedin.com/in/eugeniosegala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eugeniosegala" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/5060975" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5060975" height="30" width="30" /></a>
@@ -24,7 +25,7 @@
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true" alt="eugeniosegala" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true" alt="eugeniosegala" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
 
