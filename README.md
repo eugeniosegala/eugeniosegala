@@ -15,9 +15,9 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true" alt="eugeniosegala" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true&theme=radical" alt="eugeniosegala" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html" alt="eugeniosegala" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html&theme=radical" alt="eugeniosegala" /></p>
 
 <br />
 
