@@ -25,6 +25,5 @@
 <a href="https://linkedin.com/in/eugeniosegala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eugeniosegala" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/5060975" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5060975" height="30" width="30" /></a>
 <a href="https://medium.com/@eugeniosegala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@eugeniosegala" height="30" width="30" /></a>
-<a href="https://fb.com/eugenio.segala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="eugenio.segala" height="30" width="30" /></a>
 <a href="https://instagram.com/eugeniosegala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eugeniosegala" height="30" width="30" /></a>
 </p>
