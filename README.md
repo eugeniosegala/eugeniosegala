@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">A passionate JavaScript Engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugeniosegala" alt="eugeniosegala" /> </p>
-
 - 🔭 &nbsp;I’m currently working on [Snap This](https://github.com/eugeniosegala/snap-this)
 
 - 🌱 &nbsp;I’m currently learning **GraphQL**
