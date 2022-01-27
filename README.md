@@ -3,7 +3,7 @@
 
 - 🔭 &nbsp;I’m currently working on [Snap This](https://github.com/eugeniosegala/snap-this)
 
-- 🌱 &nbsp;I’m currently learning **Three JS/VR**
+- 🌱 &nbsp;I’m currently learning **XR**
 
 - 👨‍💻 &nbsp;All of my projects are available at [https://github.com/eugeniosegala?tab=repositories](https://github.com/eugeniosegala?tab=repositories)
 
