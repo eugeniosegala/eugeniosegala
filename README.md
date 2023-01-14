@@ -8,9 +8,3 @@
 - 📝 &nbsp;I write articles on [https://eugeniosegala.it/](https://eugeniosegala.it/)
 
 - 📫  &nbsp;How to reach me: **eugeniosegalaweb@gmail.com**
-
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true&theme=tokyonight" alt="eugeniosegala" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&hide=html&theme=tokyonight" alt="eugeniosegala" /></p>
