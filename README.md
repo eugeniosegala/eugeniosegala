@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">A passionate Software Engineer!</h3>
 
-- 🌱 &nbsp;I’m currently learning **XR**
+- 🌱 &nbsp;I’m currently learning **AI**
 
 - 👨‍💻 &nbsp;All of my projects are available at [https://github.com/eugeniosegala?tab=repositories](https://github.com/eugeniosegala?tab=repositories)
 
