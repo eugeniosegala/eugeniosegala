@@ -5,6 +5,6 @@
 
 - 👨‍💻 &nbsp;All of my projects are available at [https://github.com/eugeniosegala?tab=repositories](https://github.com/eugeniosegala?tab=repositories)
 
-- 📝 &nbsp;I write articles on [https://eugeniosegala.it/](https://eugeniosegala.it/)
+- 📝 &nbsp;Sometimes, I write articles on [https://eugeniosegala.it/](https://eugeniosegala.it/)
 
 - 📫  &nbsp;How to reach me: **eugeniosegalaweb@gmail.com**
