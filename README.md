@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
-<h3 align="center">A passionate Engineering Lead!</h3>
+<h3 align="center">A passionate engineer!</h3>
 
 - 🌱 &nbsp;I’m currently learning **AI/XR**
 
