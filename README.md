@@ -84,11 +84,10 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 
 ### 🚀 Impact & Notable Work
 
-| | |
-|---|---|
+| Area | Impact |
+|:-----|:-------|
 | 🚔 **Policing AI** | Designed AI systems transforming the processing and analysis of police phone calls, enabling better demand forecasting and operational decisions |
-| ⚡ **50% Workload Reduction** | Built intelligent automation that cut caseworker workloads in half, accelerating decision-making across public services |
-| 🛂 **Border & Immigration** | Developed AI solutions improving data access, case routing, and operational efficiency for UK border operations |
+| 🛂 **Border & Public Sector AI** | Built intelligent automation for border, immigration, and public sector operations — cutting caseworker workloads by up to 50% and improving case routing, data access, and decision-making |
 | 🧪 **ML Frameworks** | Created frameworks for data labelling, synthetic data generation, and model validation — improving reliability and auditability |
 | 🚄 **UK Rail Booking Engine** | Led engineering on a real-time e-commerce platform handling millions of annual ticket purchases for Thameslink, Southern, Southeastern & more |
 | 📡 **Nokia Network Optimisation** | Built BI dashboards and ML-driven insights for US cellular antenna infrastructure across Colorado |
@@ -99,8 +98,8 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eugeniosegala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=eugeniosegala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -112,12 +111,8 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 </div>
 
 <!--
-  ⚠️ If the stats cards above appear broken, the public Vercel instance may be
-  rate-limited. For reliable cards you can either:
-  1. Self-host github-readme-stats on your own Vercel (free):
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  2. Or use the "fast" fork as a drop-in replacement:
-     Replace github-readme-stats.vercel.app → github-readme-stats-fast.vercel.app
+  💡 For even more reliability, self-host github-readme-stats on your own free Vercel:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 -->
 
 ---
