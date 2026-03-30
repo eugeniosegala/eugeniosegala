@@ -40,7 +40,7 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 
 ### 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr><td valign="top" width="33%">
 
 **🧠 AI & ML**
@@ -96,16 +96,18 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=eugeniosegala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=eugeniosegala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eugeniosegala&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eugeniosegala&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <picture>
+    <img src="https://streak-stats.demolab.com?user=eugeniosegala&theme=tokyonight&hide_border=true" width="60%" />
+  </picture>
 </div>
 
 <!--
