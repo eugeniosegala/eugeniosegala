@@ -47,15 +47,9 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,opencv&perline=3&theme=dark" />
   </a>
 </p>
-
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/-RAG_Pipelines-FF6F00?style=for-the-badge&logoColor=white)
-![Prompt Eng.](https://img.shields.io/badge/-Prompt_Engineering-8B5CF6?style=for-the-badge&logoColor=white)
 
 </td><td valign="top" width="33%">
 
@@ -92,6 +86,10 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 | 🚄 **UK Rail Booking Engine** | Led engineering on a real-time e-commerce platform handling millions of annual ticket purchases for Thameslink, Southern, Southeastern & more |
 | 📡 **Nokia Network Optimisation** | Built BI dashboards and ML-driven insights for US cellular antenna infrastructure across Colorado |
 | ⚽ **Gazzetta Risultati Live** | Developed real-time sports stats for La Gazzetta dello Sport — Football, F1, Tennis, Basketball, Volleyball & Cycling |
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/eugeniosegala/details/projects/">🔗 <b>View all projects on LinkedIn →</b></a>
+</p>
 
 ---
 
