@@ -110,7 +110,7 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 
 ### ✍️ Latest Writing
 
-- 🤖 [Why prompt engineering is underrated](https://medium.com/@eugeniosegala) - Medium
+- 🤖 [Why prompt engineering is underrated](https://medium.com/@eugeniosegala/why-programmers-will-be-the-rock-stars-of-the-future-9b3638df05fe) - Medium
 - 🇬🇧🇮🇹 [Londra VS Milano per Software Engineers](https://eugeniosegala.it/londra-vs-milano-per-software-engineers/)
 - 🕸️ [Web Scraping su Amazon.it con Node JS](https://eugeniosegala.it/web-scraping-su-amazon-con-node-js/)
 - ⚡ [Code Splitting con React e Suspense](https://eugeniosegala.it/come-fare-code-splitting-con-react-e-suspense/)
