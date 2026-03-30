@@ -8,7 +8,7 @@
 Applied AI Lead at <a href="https://www.deloitte.com/"><b>Deloitte</b></a> in London, delivering large-scale AI systems across<br/>
 <b>Policing, Security & Justice, and the wider UK Public Sector.</b><br/><br/>
 I lead teams of 15+ engineers building intelligent automation that transforms how law enforcement<br/>
-and public services operate, from analysing police phone calls to supporting border & immigration operations.<br/>
+and public services operate in the UK, from analysing police phone calls to supporting border & immigration operations.<br/>
 My background combines hands-on technical depth with strategic leadership.
 </p>
 
