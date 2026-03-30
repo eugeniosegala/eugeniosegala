@@ -96,7 +96,7 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
     <img src="https://github-readme-stats-fast.vercel.app/api?username=eugeniosegala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="40%" />
   </picture>
   <picture>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="30.4%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eugeniosegala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="30.5%" />
   </picture>
 </div>
 
