@@ -124,7 +124,7 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 
 > "Computer programming is an art, because it applies accumulated knowledge to the world,
 > because it requires skill and ingenuity, and especially because it produces objects of beauty."
-> - Donald Knuth, 1974
+> Donald Knuth, 1974
 
   <br/>
 
