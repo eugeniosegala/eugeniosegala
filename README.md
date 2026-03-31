@@ -13,7 +13,7 @@ My background combines hands-on technical depth with strategic leadership.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-eugeniosegala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosegala/)
-[![Website](https://img.shields.io/badge/-eugeniosegala.it-000?style=for-the-badge&logo=safari&logoColor=white)](https://eugeniosegala.it/)
+[![Website](https://img.shields.io/badge/-eugeniosegala.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://eugeniosegala.dev/)
 [![Medium](https://img.shields.io/badge/-@eugeniosegala-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eugeniosegala)
 [![Instagram](https://img.shields.io/badge/-eugeniosegala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eugeniosegala/)
 
