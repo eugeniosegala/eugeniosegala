@@ -102,7 +102,7 @@ education: Computer Science + 40 certifications (Coursera, Pluralsight, Udacity,
 
 <div align="center">
   <picture>
-    <img src="https://streak-stats.demolab.com?user=eugeniosegala&theme=tokyonight&hide_border=true" width="60%" />
+    <img src="https://streak-stats.demolab.com/?user=eugeniosegala&theme=tokyonight&hide_border=true" width="60%" />
   </picture>
 </div>
 
