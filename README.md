@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:090a08,48:252c1b,100:492917&text=Eugenio%20Segala&fontColor=e7e4cf&fontSize=58&fontAlignY=40&desc=APPLIED%20AI%20%2F%2F%20SYSTEMS%20ENGINEERING&descColor=a4b96b&descSize=15&descAlignY=63&stroke=74874d&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:090a08,48:252c1b,100:492917&text=Eugenio%20Segala&fontColor=e7e4cf&fontSize=58&fontAlignY=40&desc=APPLIED%20AI%20%2F%2F%20SYSTEMS%20ENGINEERING&descColor=a4b96b&descSize=15&descAlignY=63&stroke=74874d&strokeWidth=1"
   width="100%"
   alt="Eugenio Segala"
 />
