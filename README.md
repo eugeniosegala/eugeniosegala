@@ -1,6 +1,10 @@
 <div align="center">
 
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=300&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hey%2C+I'm+Eugenio+%F0%9F%91%8B;Applied+AI+Lead+%C2%B7+Technologist+%C2%B7+Dreamer" alt="Typing SVG" /></a>](https://capsule-render.vercel.app/api?type=rect&height=190&color=0:090a08,48:252c1b,100:492917&text=Eugenio%20Segala&fontColor=e7e4cf&fontSize=58&fontAlignY=40&desc=APPLIED%20AI%20%2F%2F%20SYSTEMS%20ENGINEERING&descColor=a4b96b&descSize=15&descAlignY=63&stroke=74874d&strokeWidth=1)
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:090a08,48:252c1b,100:492917&text=Eugenio%20Segala&fontColor=e7e4cf&fontSize=58&fontAlignY=40&desc=APPLIED%20AI%20%2F%2F%20SYSTEMS%20ENGINEERING&descColor=a4b96b&descSize=15&descAlignY=63&stroke=74874d&strokeWidth=1"
+  width="100%"
+  alt="Eugenio Segala"
+/>
 
 <br/>
 
