@@ -6,8 +6,6 @@
   alt="Eugenio Segala"
 />
 
-<br/>
-
 <p>
 Applied AI Lead at <a href="https://www.deloitte.com/"><b>Deloitte</b></a> in London, delivering large-scale AI systems across<br/>
 <b>Policing, Security & Justice, and the wider UK Public Sector.</b><br/><br/>
