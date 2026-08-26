@@ -114,7 +114,7 @@ education: Computer Science + 40 certifications
 
 - [Bare Metal Development with AI](https://eugeniosegala.dev/bare-metal-development-for-ai-agents/)
 - [Event-Driven Development for AI Agents](https://eugeniosegala.dev/event-driven-development-for-ai-agents/)
-- [Why Programmers Will Be the Rockstars of the Future](https://medium.com/@eugeniosegala/why-programmers-will-be-the-rock-stars-of-the-future-9b3638df05fe) — Medium
+- [Why Programmers Will Be the Rockstars of the Future](https://medium.com/@eugeniosegala/why-programmers-will-be-the-rock-stars-of-the-future-9b3638df05fe)
 - [London vs Milan for Software Engineers](https://eugeniosegala.it/london-vs-milan-for-software-engineers/)
 - [Web Scraping on Amazon.it with Node.js](https://eugeniosegala.it/web-scraping-on-amazon-it-with-node-js/)
 
