@@ -43,8 +43,8 @@ education: Computer Science + 40 certifications
 | Project | Focus |
 |:--------|:------|
 | **[MAKO](https://github.com/eugeniosegala/MAKO)** · [Website](https://eugeniosegala.github.io/MAKO/) | Vulkan-powered graphics project bringing Lossless Scaling frame generation to SteamOS and Linux |
-| **[MAKO Renderer](https://github.com/eugeniosegala/MAKO/tree/main/engine)** | Vulkan layer and configuration tooling providing MAKO’s frame-generation pipeline |
 | **[MAKO Decky](https://github.com/eugeniosegala/MAKO/tree/main/plugin)** | Decky Loader integration with per-game controls, profiles, installation, updates, and Flatpak support |
+| **[MAKO Renderer](https://github.com/eugeniosegala/MAKO/tree/main/engine)** | Vulkan layer and configuration tooling providing MAKO’s frame-generation pipeline |
 | **[Decky LSFG-VK Experimental](https://github.com/eugeniosegala/decky-lsfg-vk-experimental)** | Experimental Decky integration for isolated LSFG-VK developer builds |
 | **[LSFG-VK Experimental](https://github.com/eugeniosegala/lsfg-vk-experimental)** | Experimental Lossless Scaling frame generation for Linux |
 
@@ -112,7 +112,7 @@ education: Computer Science + 40 certifications
 
 ### ✍️ Writing
 
-- [Bare Metal Development for AI Agents](https://eugeniosegala.dev/bare-metal-development-for-ai-agents/)
+- [Bare Metal Development with AI](https://eugeniosegala.dev/bare-metal-development-for-ai-agents/)
 - [Event-Driven Development for AI Agents](https://eugeniosegala.dev/event-driven-development-for-ai-agents/)
 - [Why Programmers Will Be the Rockstars of the Future](https://medium.com/@eugeniosegala/why-programmers-will-be-the-rock-stars-of-the-future-9b3638df05fe) — Medium
 - [London vs Milan for Software Engineers](https://eugeniosegala.it/london-vs-milan-for-software-engineers/)
