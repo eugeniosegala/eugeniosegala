@@ -7,11 +7,9 @@
 />
 
 <p>
-I’m an engineer and Applied AI Lead based in London, working across<br/>
-<b>AI systems, software architecture, and open-source graphics.</b><br/><br/>
-At <a href="https://www.deloitte.com/"><b>Deloitte</b></a>, I lead multidisciplinary engineering teams delivering large-scale AI systems across<br/>
-Policing, Security & Justice, and the wider UK Public Sector.<br/><br/>
-Alongside that work, I build <a href="https://github.com/eugeniosegala/MAKO"><b>MAKO</b></a>, a Vulkan-powered project bringing<br/>
+I’m an engineer and Applied AI Lead based in London. At <a href="https://www.deloitte.com/"><b>Deloitte</b></a>, I lead multidisciplinary engineering teams delivering<br/>
+large-scale AI systems across Policing, Security & Justice and the wider UK Public Sector.<br/><br/>
+I also build <a href="https://github.com/eugeniosegala/MAKO"><b>MAKO</b></a>, a Vulkan-powered open-source graphics project bringing<br/>
 <b>Lossless Scaling frame generation to SteamOS and Linux.</b>
 </p>
 
@@ -32,7 +30,7 @@ from: Italy 🇮🇹
 current_role: Applied AI Lead @ Deloitte
 professional_focus: AI/ML Architecture, LLMs, RAG, Intelligent Automation, Agentic Systems
 engineering_focus: Systems Engineering, Linux Graphics, Vulkan, Frame Generation
-currently_building: MAKO · MAKO Decky · MAKO Renderer
+currently_building: MAKO
 leadership: Teams of 15+ across AI, ML, Software Engineering, Cloud & Data
 previously: OnTrack Retail · Nokia · RCS MediaGroup · Istituto Cappellari
 education: Computer Science + 40 certifications
