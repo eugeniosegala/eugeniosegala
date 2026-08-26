@@ -7,8 +7,8 @@
 />
 
 <p>
-I’m an engineer and Applied AI Lead based in London. At <a href="https://www.deloitte.com/"><b>Deloitte</b></a>, I lead multidisciplinary engineering teams delivering<br/>
-large-scale AI systems across Policing, Security & Justice and the wider UK Public Sector.<br/><br/>
+I’m an engineer and Applied AI Lead based in London. At <a href="https://www.deloitte.com/"><b>Deloitte</b></a>, I lead multidisciplinary engineering teams<br/>
+delivering large-scale AI systems across Policing, Security & Justice and the wider UK Public Sector.<br/><br/>
 I also build <a href="https://github.com/eugeniosegala/MAKO"><b>MAKO</b></a>, a Vulkan-powered open-source graphics project bringing<br/>
 <b>Lossless Scaling frame generation to SteamOS and Linux.</b>
 </p>
