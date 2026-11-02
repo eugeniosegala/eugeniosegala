@@ -9,8 +9,7 @@
 <p>
 I’m an engineer and Applied AI Lead based in London. At <a href="https://www.deloitte.com/"><b>Deloitte</b></a>, I lead multidisciplinary engineering teams<br/>
 delivering large-scale AI systems across Policing, Security & Justice and the wider UK Public Sector.<br/><br/>
-I also build <a href="https://github.com/eugeniosegala/MAKO"><b>MAKO</b></a>, an open-source graphics project focused on video frame interpolation, scaling, and real-time image enhancement.</b>
-</p>
+I also build <a href="https://github.com/eugeniosegala/MAKO"><b>MAKO</b></a>, an open-source graphics project focused on video frame interpolation, scaling, and real-time image enhancement.</p>
 
 [![LinkedIn](https://img.shields.io/badge/-eugeniosegala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniosegala/)
 [![Website](https://img.shields.io/badge/-eugeniosegala.dev-000?style=for-the-badge&logo=safari&logoColor=white)](https://eugeniosegala.dev/)
