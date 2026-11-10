@@ -27,7 +27,7 @@
 name: Eugenio Segala
 located_in: London, UK
 from: Italy
-current_role: Applied AI Lead @ Deloitte
+current_role: Applied AI @ Deloitte
 professional_focus: AI/ML Architecture, LLMs, RAG, Intelligent Automation, Agentic Systems
 engineering_focus: Systems Engineering, Linux Graphics, Vulkan, Frame Generation
 currently_building: MAKO
