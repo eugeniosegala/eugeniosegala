@@ -43,7 +43,7 @@ education: Computer Science + 40 certifications
 | Project | Work |
 |:--------|:-----|
 | **[MAKO](https://github.com/eugeniosegala/MAKO)** · [Website](https://eugeniosegala.github.io/MAKO/) | Open-source frame generation for Linux, including SteamOS, with a [Vulkan renderer](https://github.com/eugeniosegala/MAKO/tree/main/engine) and a [Decky plugin](https://github.com/eugeniosegala/MAKO/tree/main/plugin) for per-game controls and profiles. |
-| **[LSFG-VK Experimental](https://github.com/eugeniosegala/lsfg-vk-experimental)** | Experimental Linux frame-generation builds with a [Decky plugin](https://github.com/eugeniosegala/decky-lsfg-vk-experimental) for testing them in isolation. |
+| **[Decky LSFG-VK Experimental](https://github.com/eugeniosegala/decky-lsfg-vk-experimental)** | Decky Loader plugin for testing [experimental LSFG-VK builds](https://github.com/eugeniosegala/lsfg-vk-experimental) per game on SteamOS and other Linux systems. Development continues in MAKO. |
 | **Policing AI** | Designed systems that analyse police calls to help teams forecast demand and make operational decisions. |
 | **Border & Public Sector AI** | Built tools that reduce caseworker workloads and improve case routing and data access across border, immigration, and public-sector operations. |
 | **ML Frameworks** | Created frameworks for data labelling, synthetic data generation, and model validation to make results more reliable and easier to audit. |
