@@ -21,12 +21,12 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```yaml
 name: Eugenio Segala
-located_in: London, UK 🇬🇧
-from: Italy 🇮🇹
+located_in: London, UK
+from: Italy
 current_role: Applied AI Lead @ Deloitte
 professional_focus: AI/ML Architecture, LLMs, RAG, Intelligent Automation, Agentic Systems
 engineering_focus: Systems Engineering, Linux Graphics, Vulkan, Frame Generation
@@ -38,19 +38,24 @@ education: Computer Science + 40 certifications
 
 ---
 
-### 🎮 Open Source & Graphics
+### Selected Engineering Work
 
-| Project | Focus |
-|:--------|:------|
-| **[MAKO](https://github.com/eugeniosegala/MAKO)** · [Website](https://eugeniosegala.github.io/MAKO/) | Vulkan-powered graphics project bringing Lossless Scaling frame generation to SteamOS and Linux |
-| **[MAKO Decky](https://github.com/eugeniosegala/MAKO/tree/main/plugin)** | Decky Loader integration with per-game controls, profiles, installation, updates, and Flatpak support |
-| **[MAKO Renderer](https://github.com/eugeniosegala/MAKO/tree/main/engine)** | Vulkan layer and configuration tooling providing MAKO’s frame-generation pipeline |
-| **[Decky LSFG-VK Experimental](https://github.com/eugeniosegala/decky-lsfg-vk-experimental)** | Experimental Decky integration for isolated LSFG-VK developer builds |
-| **[LSFG-VK Experimental](https://github.com/eugeniosegala/lsfg-vk-experimental)** | Experimental Lossless Scaling frame generation for Linux |
+| Project | Work |
+|:--------|:-----|
+| **[MAKO](https://github.com/eugeniosegala/MAKO)** · [Website](https://eugeniosegala.github.io/MAKO/) | Open-source frame generation for Linux, including SteamOS, with a [Vulkan renderer](https://github.com/eugeniosegala/MAKO/tree/main/engine) and a [Decky plugin](https://github.com/eugeniosegala/MAKO/tree/main/plugin) for per-game controls and profiles. |
+| **[LSFG-VK Experimental](https://github.com/eugeniosegala/lsfg-vk-experimental)** | Experimental Linux frame-generation builds with a [Decky plugin](https://github.com/eugeniosegala/decky-lsfg-vk-experimental) for testing them in isolation. |
+| **Policing AI** | Designed systems that analyse police calls to help teams forecast demand and make operational decisions. |
+| **Border & Public Sector AI** | Built tools that reduce caseworker workloads and improve case routing and data access across border, immigration, and public-sector operations. |
+| **ML Frameworks** | Created frameworks for data labelling, synthetic data generation, and model validation to make results more reliable and easier to audit. |
+| **UK Rail Booking Engine** | Led engineering on a booking platform that handles millions of ticket purchases a year for Thameslink, Southern, Southeastern, and other UK rail services. |
+| **Nokia Network Optimisation** | Built dashboards and used machine learning to analyse cellular antenna infrastructure across Colorado. |
+| **Gazzetta Risultati Live** | Developed real-time statistics for La Gazzetta dello Sport across football, Formula 1, tennis, basketball, volleyball, and cycling. |
+
+[View all projects on LinkedIn](https://www.linkedin.com/in/eugeniosegala/details/projects/)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Systems & Graphics**
 
@@ -93,24 +98,7 @@ education: Computer Science + 40 certifications
 
 ---
 
-### 🚀 Selected Engineering Work
-
-| Area | Work |
-|:-----|:-----|
-| 🚔 **Policing AI** | Designed AI systems for processing and analysing police phone calls, supporting demand forecasting and operational decision-making |
-| 🛂 **Border & Public Sector AI** | Built intelligent automation for border, immigration, and public-sector operations, reducing caseworker workloads and improving case routing, data access, and decision-making |
-| 🧪 **ML Frameworks** | Created frameworks for data labelling, synthetic data generation, and model validation, improving reliability and auditability |
-| 🚄 **UK Rail Booking Engine** | Led engineering on a real-time e-commerce platform handling millions of annual ticket purchases for Thameslink, Southern, Southeastern, and other UK rail services |
-| 📡 **Nokia Network Optimisation** | Built BI dashboards and ML-driven insights for cellular antenna infrastructure across Colorado |
-| ⚽ **Gazzetta Risultati Live** | Developed real-time sports statistics for La Gazzetta dello Sport across football, Formula 1, tennis, basketball, volleyball, and cycling |
-
-<p align="right">
-  <a href="https://www.linkedin.com/in/eugeniosegala/details/projects/">🔗 <b>View all projects on LinkedIn →</b></a>
-</p>
-
----
-
-### ✍️ Writing
+### Writing
 
 - [Bare Metal Development with AI](https://eugeniosegala.dev/bare-metal-development-for-ai-agents/)
 - [Event-Driven Development for AI Agents](https://eugeniosegala.dev/event-driven-development-for-ai-agents/)
@@ -120,7 +108,7 @@ education: Computer Science + 40 certifications
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <picture>
@@ -149,6 +137,6 @@ education: Computer Science + 40 certifications
 
   <br/>
 
-**💬 Always happy to connect about Applied AI, Linux graphics, frame generation, open source, or systems engineering.**
+**Always happy to connect about Applied AI, Linux graphics, frame generation, open source, or systems engineering.**
 
 </div>
